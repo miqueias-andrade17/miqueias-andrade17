@@ -1,4 +1,4 @@
-## Oiii eu sou Miquéias Andrade 👋, estudante de Engenharia de Software!
+## Oi eu sou Miquéias Andrade 👋, estudante de Engenharia de Software!
 
 ## Atualmente focado em:
 - desenvolvimento web
